@@ -1,4 +1,4 @@
 # Raj-
 This is my first git repository
 <br>
-Author- Raj Anand
+Author- Raj Nawadia
